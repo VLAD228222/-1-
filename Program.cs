@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PrimeNumbers
+namespace Самсотійна №1
 {
     class Program
     {
